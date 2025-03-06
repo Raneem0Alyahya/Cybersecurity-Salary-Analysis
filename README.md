@@ -1,10 +1,6 @@
 # Cybersecurity Salary Analysis
 
-## Names  
-Sarah Waheed Alhindi 443200630  
-Raneem Nasser Alyahya 443200702  
-Shaug Majed Alyahya 443200888  
-Shahad Shukri Bin Makhashen  443204385  
+
 
 ## Motivations: 
 We are living in the “information age” or rather the “data age”, meaning that everything around us revolves around data. The data has become one of the most valuable assets that a person or an organization can have, Thus, most of the attacks nowadays are directed toward the data. To guard against such damage, organizations have realized the importance of protecting their digital assets, leading them to hire cybersecurity specialists. As a result, the demand for these professionals is higher now than ever before. In order to better understand this field, we decided to analyze a dataset of 1247 cybersecurity employees, containing information such as salary, job title, and experience level. Analyzing this dataset can provide insightful predictions regarding the salary range of cybersecurity employees. Also, the analysis groups cybersecurity employees based on shared characteristics, providing valuable insights for decision-making in the industry.
@@ -158,4 +154,11 @@ classification out advantage clustering since the class label is available in ou
 
 In conclusion, our solution is composed of two main parts that will help achieve our goals: 1- Use classification to predict employees’ salaries (using 10-fold gain ratio method) 2- Use clustering to group employees based on their similarities (using k-means with 2 clusters)
 
-By addressing the issues, we can solve them such as unfairness, losing candidates to other companies that provide better privileges, and poor understanding of employees’ needs. Finally, by solving these problems, we can ensure the cybersecurity employees are satisfied and pleased with the salary they get, leading to a better performance at their jobs and better securing the organization’s data and valuable digital assets.
+By addressing the issues, we can solve them such as unfairness, losing candidates to other companies that provide better privileges, and poor understanding of employees’ needs. Finally, by solving these problems, we can ensure the cybersecurity employees are satisfied and pleased with the salary they get, leading to a better performance at their jobs and better securing the organization’s data and valuable digital assets.  
+
+
+## Authors 
+Sarah Waheed Alhindi 
+Raneem Nasser Alyahya   
+Shaug Majed Alyahya  
+Shahad Shukri Bin Makhashen  
